@@ -4,7 +4,7 @@
 }
 
 body{
-    background: #010523;;
+    background: #010837;
 }
 
 svg path{
@@ -17,4 +17,11 @@ svg path:hover{
     fill: #7d88c7;
     transition: 0.3s;
     cursor: pointer;
+}
+
+div a{
+    background-color: #7d88c7;
+    padding: 1%;
+    color:white;
+    align-items: left;
 }
