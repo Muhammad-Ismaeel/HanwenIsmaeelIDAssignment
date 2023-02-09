@@ -1,16 +1,34 @@
 # HanwenIsmaeelIDAssignment
 
-
 ## Design Process
+
 ### Project Idea
-Create an interative map that shows the rish level of travelling to countries based on the number of COVID cases at said country.
-Hovering over the country will give certaun statistics and clicking on the country will bring you to their government's website.
+
+Create an interative map that shows the risk level of travelling to countries based on the number of COVID cases at said country.
+Hovering over the country will give certain statistics and clicking on the country will bring you to out government's website regarding travel protocol to that country.
 There will also be travel guidelines to each level of countries in the website for tourists to take note of.
 
 ## Features
 
+The homepage provides information on what to expect when travelling to coutries with varying number of COVID-19 cases and certain precautions to take when travelling to countries with high case numbers.
+
+The interactive map brings users to the Singpore government's website to show them travel guidelines when visiting the country they wish to visit. (Unfortunately, the interactive map used only allows for several countries to be clicked on so it is only done for the main destinations.)
+
+The final page, Statistics, shows various countries current COVID cases so that a user planning to go on a trip to that country can see what to look out for and contemplate if they really wish to visit that location.
+
+The Navigation Bar was done using Bootstrap and most of the actual css was also done using CSS
+
 ## Technologies Used
 
+- Bootstrap
+- SVG Map
+- COVID-19 API
+
 ## Testing
+
+Test done on 09/02/2023
+Website works in general - homepage slightly unattractive, interactive map works the way it's supposed to, sending user to MFA website, Statistics display is ugly and needs changing.
+
+Test done on 10/02/2023
 
 ## Credits
