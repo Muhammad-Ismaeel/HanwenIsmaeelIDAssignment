@@ -3,6 +3,8 @@
 D H Muhammad Ismaeel - S10219144
 Hu Hanwen - S10242522
 
+Presentation Link - https://www.youtube.com/watch?v=erlUVQYIBpk
+
 ## Design Process
 
 ### Project Idea
@@ -12,6 +14,8 @@ Hovering over the country will give certain statistics and clicking on the count
 There will also be travel guidelines to each level of countries in the website for tourists to take note of.
 
 ## Features
+
+### Features Completed
 
 The homepage provides information on what to expect when travelling to coutries with varying number of COVID-19 cases and certain precautions to take when travelling to countries with high case numbers.
 
@@ -25,6 +29,10 @@ Github Pages Link - https://muhammad-ismaeel.github.io/HanwenIsmaeelIDAssignment
 
 Wireframe Link - https://drive.google.com/file/d/1cxDPUid7NN1gyYPsz1UziDZ7SJ2g_h4l/view?usp=sharing
 
+### Features Left to Implement
+
+Would like to make the map be responsive to the number of cases the country has so that it will turn red when there is more than 50,000 cases, yellow with more than 10,000 cases and green for the rest.
+
 ## Technologies Used
 
 - Bootstrap
@@ -37,6 +45,8 @@ Test done on 09/02/2023
 Website works in general - homepage slightly unattractive, interactive map works the way it's supposed to, sending user to MFA website, Statistics display is ugly and needs changing.
 
 Test done on 10/02/2023
+Website generally looks better with the lottie animation at homepage as well as the statistics being displayed more clearly.
+Moreover, all functions that were desired to be completed were completed.
 
 ## Credits
 
