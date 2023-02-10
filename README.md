@@ -32,7 +32,7 @@ Website works in general - homepage slightly unattractive, interactive map works
 Test done on 10/02/2023
 
 ## Credits
-clickable svg map video - https://www.youtube.com/watch?v=l-9YQUmTOdI&t=9s&ab_channel=ALTERCODES
-svg map - https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimplemaps.com%2Fresources%2Fsvg-world&psig=AOvVaw3UleF7JBXrTu6hj9PebjkM&ust=1676021309694000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiMooqQiP0CFQAAAAAdAAAAABAD
-MFA website used - https://www.mfa.gov.sg/Where-Are-You-Travelling-To
-Bootstrap - https://getbootstrap.com/docs/5.2/content/reboot/
+- clickable svg map video - https://www.youtube.com/watch?v=l-9YQUmTOdI&t=9s&ab_channel=ALTERCODES
+- svg map - https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimplemaps.com%2Fresources%2Fsvg-world&psig=AOvVaw3UleF7JBXrTu6hj9PebjkM&ust=1676021309694000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiMooqQiP0CFQAAAAAdAAAAABAD
+- MFA website used - https://www.mfa.gov.sg/Where-Are-You-Travelling-To
+- Bootstrap - https://getbootstrap.com/docs/5.2/content/reboot/
