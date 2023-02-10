@@ -5,8 +5,8 @@ fetch(url)
     for(let i = 0; i< response.length; i++){
         let cases = (response[i]["infected"] - response[i]["deceased"] - response[i]["recovered"])
         if(response[i]["country"] != "Singapore" && cases > 0 && cases != null){
-            let countrysentence = "Country: " + response[i]["country"]
-            let casessentence = "Current cases: " + cases
+            let countrysentence = response[i]["country"]
+            let casessentence = cases
             let newdivone = document.createElement("div")
             newdivone.innerHTML = countrysentence
             document.querySelector(".countrytable").append(newdivone)
@@ -17,5 +17,3 @@ fetch(url)
         
     }
 })
-
-
