@@ -1,0 +1,17 @@
+@media (max-width: 767px) {
+    body {
+      font-size: 14px;
+    }
+    
+    header {
+      padding: 10px;
+    }
+    
+    .main-content {
+      margin: 10px;
+    }
+  }
+
+
+
+
