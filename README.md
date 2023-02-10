@@ -1,5 +1,8 @@
 # HanwenIsmaeelIDAssignment
 
+D H Muhammad Ismaeel - S10219144
+Hu Hanwen - S10242522
+
 ## Design Process
 
 ### Project Idea
@@ -18,6 +21,10 @@ The final page, Statistics, shows various countries current COVID cases so that 
 
 The Navigation Bar was done using Bootstrap and most of the actual css was also done using CSS
 
+Github Pages Link - https://muhammad-ismaeel.github.io/HanwenIsmaeelIDAssignment/
+
+Wireframe Link - https://drive.google.com/file/d/1cxDPUid7NN1gyYPsz1UziDZ7SJ2g_h4l/view?usp=sharing
+
 ## Technologies Used
 
 - Bootstrap
@@ -32,6 +39,7 @@ Website works in general - homepage slightly unattractive, interactive map works
 Test done on 10/02/2023
 
 ## Credits
+
 - clickable svg map video - https://www.youtube.com/watch?v=l-9YQUmTOdI&t=9s&ab_channel=ALTERCODES
 - svg map - https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimplemaps.com%2Fresources%2Fsvg-world&psig=AOvVaw3UleF7JBXrTu6hj9PebjkM&ust=1676021309694000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiMooqQiP0CFQAAAAAdAAAAABAD
 - MFA website used - https://www.mfa.gov.sg/Where-Are-You-Travelling-To
