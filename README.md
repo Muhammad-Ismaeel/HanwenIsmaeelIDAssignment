@@ -36,3 +36,4 @@ Test done on 10/02/2023
 - svg map - https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimplemaps.com%2Fresources%2Fsvg-world&psig=AOvVaw3UleF7JBXrTu6hj9PebjkM&ust=1676021309694000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiMooqQiP0CFQAAAAAdAAAAABAD
 - MFA website used - https://www.mfa.gov.sg/Where-Are-You-Travelling-To
 - Bootstrap - https://getbootstrap.com/docs/5.2/content/reboot/
+- API link - https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true
